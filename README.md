@@ -1,4 +1,4 @@
-# GitHub Repository Miner
+# PR Repository Miner
 
 This project is a Python-based tool designed to mine GitHub repositories based on specific criteria. It automatically handles API rate limits, pagination, and processes data in batches to find repositories that match a defined profile (e.g., language, minimum stars, issue resolution time).
 
